@@ -1,2 +1,3 @@
 # MY-GIT-REPO
-This is my second repo
+This is my second repo and beautiful
+
